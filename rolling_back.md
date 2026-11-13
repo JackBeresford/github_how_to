@@ -1,5 +1,7 @@
 # Rolling back
-Using git we can restore files that were accidentally deleted or changed for the worse
+
+Using git we can restore files that were accidentally deleted or changed for the worse.
+
 The techniques differ in how far gone we are in the commit process
 
 ## Before adding files to the staging area (git add)
